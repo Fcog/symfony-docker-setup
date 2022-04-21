@@ -4,7 +4,6 @@ Based on the setup described here: https://www.twilio.com/blog/get-started-docke
 
 ## Prerequisites
 - Docker Desktop.
-- The Symfony CLI tool.
 
 ## Getting started
 ```docker-compose up -d --build```
